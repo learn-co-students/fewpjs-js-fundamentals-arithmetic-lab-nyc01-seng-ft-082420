@@ -1,8 +1,8 @@
+const num1 = 2
+const num2 = 31
 const multiply = num1 * num2
-const multiply = 62
 
-Math.random();
+const random = Math.floor( Math.random() * 1000 ) + 1
 
-const mod = 14 % 5
-
-Math.max(1, 5, 20)
+const mod = 16 % 6
+const max = Math.max( 5, 10, 15, 20 )
